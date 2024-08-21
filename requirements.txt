@@ -1,3 +1,2 @@
-streamlit==1.24.0
-googletrans==4.0.0-rc.1
-Python==3.11.4
+streamlit==1.31.1
+googletrans==4.0.0-rc1
